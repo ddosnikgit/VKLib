@@ -1,6 +1,7 @@
 # VKLib
 ### A simple VK libary for pmmp and forks.
 ## Usage:
+- Change "token" in code to your community token
 ```php
 $vk = $this->getServer()->getPluginManager()->getPlugin("VKLib");
 
