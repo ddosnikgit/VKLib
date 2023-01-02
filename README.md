@@ -1,5 +1,6 @@
 # VKLib
 ### A simple VK libary for pmmp and forks. VK API v5.81
+### @Lunarelly is cringe codewriter.
 ## Usage:
 - Change "token" in code to your community token
 ```php
